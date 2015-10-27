@@ -8,15 +8,97 @@
   "Unicode '>>=' (bind)":
     'prefix': '>>='
     'body': '≫='
+  "Unicode =<<' (reversed bind)":
+    'prefix': '=<<'
+    'body': '=≪'
   "Unicode Emptyset":
     'prefix': 'mempty'
+    'body': '(∅)'
+  "Unicode applicative empty":
+    'prefix': 'empty'
     'body': '(∅)'
   "Unicode '<>' (mappend)":
     'prefix': '<>'
     'body': '⊕'
+  "Unicode 'mappend'":
+    'prefix': 'mappend'
+    'body': '(⊕)'
   "Unicode '<*>' (apply)":
     'prefix': '<*>'
     'body': '⊛'
+  "Unicode '>>>' (Category composition)":
+    'prefix': '>>>'
+    'body': '⋙'
+  "Unicode <<<' (Category composition)":
+    'prefix': '<<<'
+    'body': '⋘'
+  "Unicode '***' (Arrow parallel)":
+    'prefix': '***'
+    'body': '⁂'
+  "Unicode '+++'":
+    'prefix': '+++'
+    'body': '⧻'
+  "Unicode '|||'":
+    'prefix': '|||'
+    'body': '⫴'
+  "Unicode '||' (logical or)":
+    'prefix': '||'
+    'body': '∨'
+  "Unicode '&&' (logical and)":
+    'prefix': '&&'
+    'body': '∧'
+  "Unicode 'not'":
+    'prefix': 'not'
+    'body': '(⌐)'
+  "Unicode '==' (equal)":
+    'prefix': '=='
+    'body': '≡'
+  "Unicode '/=' (unequal)":
+    'prefix': '\='
+    'body': '≢'
+  "Unicode 'elem'":
+    'prefix': 'elem'
+    'body': '∈'
+  "Unicode 'elem' (operator version)":
+    'prefix': '`elem`'
+    'body': '∈'
+  "Unicode 'notElem'":
+    'prefix': 'notElem'
+    'body': '∉'
+  "Unicode 'notElem' (operator version)":
+    'prefix': '`notElem`'
+    'body': '∉'
+  "Unicode flipped 'notElem'":
+    'prefix': 'flip notElem'
+    'body': '∌'
+  "Unicode '++' (list concatenation)":
+    'prefix': '++'
+    'body': '⧺'
+  "Unicode 'union' (set union)":
+    'prefix': 'union'
+    'body': '∪'
+  "Unicode '\\' (set difference)":
+    'prefix': '\\'
+    'body': '∖'
+  "Unicode 'intersect' (set intersect)":
+    'prefix': 'intersect'
+    'body': '∩'
+  "Unicode '<=' (less than or equal)":
+    'prefix': '<='
+    'body': '≤'
+  "Unicode '>=' (greater than or equal)":
+    'prefix': '>='
+    'body': '≥'
+  "Unicode 'undefined' (bottom)":
+    'prefix': 'undefined'
+    'body': '⊥'
+  "Unicode 'Integer' (Integer type)":
+    'prefix': 'Integer'
+    'body': 'ℤ'
+  "Unicode 'Rational' (Rational numbers)":
+    'prefix': 'Rational'
+    'body': 'ℚ'
+
   "Greek letter α (alpha)":
     'prefix': 'a'
     'body': 'α'
