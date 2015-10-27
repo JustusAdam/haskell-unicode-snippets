@@ -1,0 +1,91 @@
+'.source.haskell':
+  "Unicode '.' (function composition)":
+    'prefix': '.'
+    'body': '∘'
+  "Unicode '>>'":
+    'prefix': '>>'
+    'body': '≫'
+  "Unicode '>>=' (bind)":
+    'prefix': '>>='
+    'body': '≫='
+  "Unicode Emptyset":
+    'prefix': 'mempty'
+    'body': '(∅)'
+  "Unicode '<>' (mappend)":
+    'prefix': '<>'
+    'body': '⊕'
+  "Unicode '<*>' (apply)":
+    'prefix': '<*>'
+    'body': '⊛'
+  "Greek letter α (alpha)":
+    'prefix': 'a'
+    'body': 'α'
+  "Greek letter β (beta)":
+    'prefix': 'b'
+    'body': 'β'
+  "Greek letter γ (gamma)":
+    'prefix': 'c'
+    'body': 'γ'
+  "Greek letter δ (delta)":
+    'prefix': 'd'
+    'body': 'δ'
+  "Greek letter ε (epsilon)":
+    'prefix': 'e'
+    'body': 'ε'
+  "Greek letter ζ (zeta)":
+    'prefix': 'f'
+    'body': 'ζ'
+  "Greek letter η (eta)":
+    'prefix': 'g'
+    'body': 'η'
+  "Greek letter θ (theta)":
+    'prefix': 'h'
+    'body': 'θ'
+  "Greek letter ι (iota)":
+    'prefix': 'j'
+    'body': 'ι'
+  "Greek letter κ (kappa)":
+    'prefix': 'k'
+    'body': 'κ'
+  "Greek letter λ (lambda)":
+    'prefix': 'l'
+    'body': 'λ'
+  "Greek letter μ (mu)":
+    'prefix': 'm'
+    'body': 'μ'
+  "Greek letter ν (nu)":
+    'prefix': 'n'
+    'body': 'ν'
+  "Greek letter ο (omicron)":
+    'prefix': 'o'
+    'body': 'ο'
+  "Greek letter π (pi)":
+    'prefix': 'p'
+    'body': 'π'
+  "Greek letter ρ (rho)":
+    'prefix': 'r'
+    'body': 'ρ'
+  "Greek letter σ (sigma)":
+    'prefix': 's'
+    'body': 'σ'
+  "Greek letter τ (tau)":
+    'prefix': 't'
+    'body': 'τ'
+  "Greek letter υ (upsilon)":
+    'prefix': 'u'
+    'body': 'υ'
+  "Greek letter φ (phi)":
+    'prefix': 'v'
+    'body': 'φ'
+  "Greek letter ω (omega)":
+    'prefix': 'w'
+    'body': 'ω'
+  "Greek letter χ (chi)":
+    'prefix': 'x'
+    'body': 'χ'
+  "Greek letter ψ (psi)":
+    'prefix': 'y'
+    'body': 'ψ'
+  "Greek letter ξ (xi)":
+    'prefix': 'z'
+    'body': 'ξ'
