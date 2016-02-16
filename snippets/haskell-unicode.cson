@@ -49,7 +49,7 @@
     'body': '∧'
   "Unicode 'not'":
     'prefix': 'not'
-    'body': '(⌐)'
+    'body': '(¬)'
   "Unicode '==' (equal)":
     'prefix': '=='
     'body': '≡'
